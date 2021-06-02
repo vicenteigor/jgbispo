@@ -1,18 +1,21 @@
-### Hi there 👋, João Gustavo
-#### Just another JavaScript programmer
-I'm 20 years old and love javascript and programming in general.
-I'm currently on the Reau development team, but specifically on the e-commercer team.
-
-Skills: NodeJs / Js / HTML / CSS / Python and C
-
-- 🌱 I’m currently learning ReactJs and React-Native 
-- 🤔 I’m looking for help with ReactJs and React-Native 
-- 💬 Ask me about Whatever you want 
-- 📫 How to reach me: Send me a message on instagram 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jgbispo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joaogsutavobispo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/3isp0/)  
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jgbispo&show_icons=true&count_private=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jgbispo)  
-
-![Profile views](https://gpvc.arturio.dev/jgbispo)  
+## Hi! My name is João Gustavo
+ <div>
+  <a href="https://github.com/jgbispo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jgbispo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgbispo&layout=compact&langs_count=16&theme=tokyonight"/>
+<div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="JG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JG-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="JG-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="JG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="JG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/joaogustavobispo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: jgbispo16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaogustavobispo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
